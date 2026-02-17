@@ -102,7 +102,7 @@ def calculate_dog_years():
     
     print(f"The dog's age in dog years is {dog_years}.")
 
-# Call the function
+
 calculate_dog_years()
 
 
@@ -135,7 +135,7 @@ def weather_advice():
     else:
         print("Wear light clothing.")
 
-# Call the function
+
 weather_advice()
 
 
@@ -173,5 +173,4 @@ def determine_season():
     
     print(f"{month} {day:02d} is in {season}.")
 
-# Call the function
 determine_season()
